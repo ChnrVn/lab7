@@ -4,5 +4,5 @@
 <p><a href="https://github.com/ChnrVn/lab6.1">Лабораторная работа 6 (Клиент - серверное взаимодействие)</a></p>
 
 Следующие версии:
-<p><a href="https://github.com/ChnrVn/lab8/blob/master/README.md">Лабораторная работа 8 (Реализация gui)</a></p>
+<p><a href="https://github.com/ChnrVn/lab8">Лабораторная работа 8 (Реализация gui)</a></p>
 <img width="736" alt="task" src="https://user-images.githubusercontent.com/81740016/122731640-2c8ebc80-d284-11eb-8fab-afcc0fa69314.png">
